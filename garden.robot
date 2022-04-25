@@ -35,7 +35,7 @@ Cenário 02: Adicionar uma planta
     Click Element                    id=com.google.samples.apps.sunflower:id/fab
     
 
-Cenário 03: Validar no jardim a planta adicionada  
+Cenário 03: Validar se a planta foi adicionada  
     Open Session
     Open Nav
     
