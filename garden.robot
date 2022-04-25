@@ -56,7 +56,7 @@ Cenário 03: Validar no jardim a planta adicionada
 
 ***keywords***
 Open Session  
-    Set Appium Timeout      10  
+    Set Appium Timeout      5  
     Open Application        http://localhost:4723/wd/hub
     ...                     automationName=UiAutomator2
     ...                     platformName=Android
